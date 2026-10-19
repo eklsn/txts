@@ -1,0 +1,29 @@
+UNCALLED FOR by EKLSN uses following resources
+All rights and trademarks belong to their respective creators.
+
+Models:
+Simon Phone [Cry of Fear Fan Art] by Lucas Lauer Gallo (CC BY 4.0) - https://sketchfab.com/3d-models/simon-phone-cry-of-fear-fan-art-efb3ef63a12c4b16b5ac0f66bbdf705d
+Cryo Bed by skylajade69 (CC BY 4.0) - https://sketchfab.com/3d-models/cryo-bed-903218892fb846a7bcb2e30456b34712
+Microwave (PSX) by Fr1azor (CC BY 4.0) - https://sketchfab.com/3d-models/microwave-psx-9dc92949ae2f47278e6580db62827c4d
+"the brain" by veryfAtfr0G (CC BY 4.0) - https://sketchfab.com/3d-models/the-brain-007847f9d2b5481a882d8996c0fd1847
+
+Music:
+This game uses several tracks provided by mafemofe. Used with personal permission.
+https://mafemofe.bandcamp.com/
+https://mafemofe.newgrounds.com/
+
+SFX:
+https://zvukipro.com
+https://www.myinstants.com/
+
+Shaders:
+VHS and CRT monitor effect for GODOT4 by A7meD and pend00 - https://godotshaders.com/shader/vhs-and-crt-monitor-effect-2/
+
+
+CC BY 4.0 license text:
+https://creativecommons.org/licenses/by/4.0/
+
+Every effort has been made to properly credit creators.
+If you have questions regarding the usage or attribution of any material in this project, please contact: mzdeveloper.inbox@gmail.com
+
+
